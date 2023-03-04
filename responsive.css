@@ -1,0 +1,12 @@
+/* Mobile View section starts*/
+@media (max-width: 800px) { 
+    
+}
+@media (max-width: 600px){
+    
+    .footer{
+        grid-template-columns: auto;
+        gap: 20px;
+    }
+    
+}

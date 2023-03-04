@@ -1,0 +1,44 @@
+body{margin: 0;padding: 0;font-family: 'Ruda', sans-serif;}
+/*  nav section starts */
+a.nav-link {color: #FFFFFF;font-family: 'Ruda', sans-serif;}
+a.nav-link:hover {color: #a4a3a3;font-family: 'Ruda', sans-serif;}
+/*  nav section ends */
+
+/*  banner section starts */
+.card-img-overlay {position: absolute; top: 0; right: 0; bottom: 0; left: 0; padding: var(--bs-card-img-overlay-padding); border-radius: var(--bs-card-inner-border-radius); opacity: 0.9;}
+.text-bg-dark { color: #FFF!important; background-color: RGBA(33,37,41,var(--bs-bg-opacity,1))!important; margin: 0px 0 0 0; padding: 0 0 0 0;}
+h1.card-title { margin: 88px 0 43px 0; padding: 0; letter-spacing: 4.1px; font-size: 80px; font-family: 'Ruda'; font-weight: bolder;}
+p.card-text { margin: 0 0 0 0; padding: 0 0 0 0; font-size: 25px; font-weight: 400; font-family: 'Ruda';}
+
+/*  banner section ends */
+/*  aboutus section starts */
+.aboutus { margin: 0 0 0 0; padding: 43px 0 43px 0; float: left; width: 100%; background: #000; color: #FFFFFF; text-align: center; line-height: 2.1; font-family: 'Ruda', sans-seri;}
+.row.gx-5 { margin: 0 0 0 0; padding: 48px 0 20px 0; float: left; width: 100%;}
+.p-3 { margin: 87px 0 0 0 !important; padding: 21px 0 20px 0 !important; font-size: 20px; font-family: 'Ruda', sans-serif;}
+
+/*  aboutus section ends */
+/*  menu section starts */
+.menu { margin: 0 0 0 0; padding: 43px 0 43px 0; float: left; width: 100%; background: #000; color: #FFFFFF; text-align: center; line-height: 2.1; font-family: 'Ruda', sans-serif;}
+.menu p{ margin: 25px 0 0 0 !important; padding: 0px 0 0px 0 !important; font-size: 20px; font-family: 'Ruda', sans-serif;  justify-content: left !important;}
+.align-items-start { align-items: flex-start!important; margin: 28px 0 28px 0; padding: 19px 0 0 0;}
+.container.text-center {margin: 0; padding: 43px 0 23px 0; width: 100%; text-align: center;}
+.col h4{color: yellow;}
+
+/*  menu section ends */
+
+/*  findus section starts */
+.findus { margin: 0 0 0 0; padding: 43px 0 43px 0; float: left; width: 100%; background: #000; color: #FFFFFF; text-align: center; line-height: 2.1; font-family: 'Ruda', sans-serif;}
+.row.gx-5 { margin: 0 0 0 0; padding: 0 0 20px 0; float: left; width: 100%;}
+/*  findus section ends */
+/*  footer section starts */
+.footer { background: #000; margin: 0 0 0 0; padding: 47px 0 47px 0; float: left; width: 100%; color: #FFFFFF;}
+.footer { margin-top: 0vw; margin-bottom: 2vw; display: flex; flex-direction: row; align-items: center; font-family: 'Ruda', sans-serif;}
+.footer .mail-icon { width: 3vw; padding-right: 1vw;}
+.footer  .phone-icon { width: 3vw; padding-right: 1vw;}
+.footer .grp-img { width: 10vw;}
+.footer .footer-img { padding-left: 6vw;}
+.footer .contact-details { padding-left: 45vw;}
+.footer .location { display: flex; flex-direction: row; align-items: center; font-family: 'Ruda'; font-style: normal; font-weight: 700; font-size: 1.2vw; letter-spacing: 0.09em;}
+.footer .contact { display: flex; flex-direction: row; align-items: center; line-height: 2vw; padding-top: 1vw; font-family: 'Ruda'; font-style: normal; font-weight: 700; font-size: 1.2vw; line-height: 2vw; letter-spacing: 0.09em;}
+/*  footer section ends */
+
